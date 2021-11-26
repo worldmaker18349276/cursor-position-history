@@ -1,8 +1,8 @@
-# cursor-history package
+# cursor-position-history package
 
 Fork of [last-cursor-position](https://github.com/last-cursor-position/last-cursor-position).
 
-Cursor History is a package for Atom that keeps a history of past cursor positions and allows to travel Between them.
+Cursor Position History is a package for Atom that keeps a history of past cursor positions and allows to travel Between them.
 The cursor position is recorded only when stop moving.
 Each tab has its own history of cursor positions.
 

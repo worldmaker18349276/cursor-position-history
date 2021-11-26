@@ -1,9 +1,9 @@
 {
-  "name": "cursor-history",
-  "main": "./lib/cursor-history",
+  "name": "cursor-position-history",
+  "main": "./lib/cursor-position-history",
   "version": "1.4.2",
   "description": "Keeps a history of past cursor position to travel back to",
-  "repository": "https://github.com/worldmaker18349276/last-cursor-position",
+  "repository": "https://github.com/worldmaker18349276/cursor-position-history",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
