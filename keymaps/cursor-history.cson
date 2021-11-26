@@ -8,6 +8,6 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
 'atom-text-editor':
-  'alt--': 'last-cursor-position:previous'
-  'alt-_': 'last-cursor-position:next'
-  'alt-R': 'last-cursor-position:clear'
+  'alt--': 'cursor-history:previous'
+  'alt-_': 'cursor-history:next'
+  'alt-R': 'cursor-history:clear'
